@@ -1,9 +1,7 @@
-# SystemArchitecture
-![image](https://user-images.githubusercontent.com/101112307/164180287-6d431f13-3f80-40d4-a077-0570542c6a38.png)
-![image](https://user-images.githubusercontent.com/101112307/168909849-f9e6f65c-96e5-427c-911f-b13a8b572631.png)
-![image](https://user-images.githubusercontent.com/101112307/164177421-3524b2d7-ea01-4f2a-b243-04c13fa26ee5.png)
-![image](https://user-images.githubusercontent.com/101112307/164177504-fdac7710-bde0-4e41-8d56-7f19fe16db6c.png)
-![image](https://user-images.githubusercontent.com/101112307/168909910-e2f9a70b-7ea6-4f91-9875-75357f91bc81.png)
-
-
-
+![image](https://user-images.githubusercontent.com/101112307/171286672-2730dc5e-7ae6-49cf-9e8d-d3911333ef75.png)
+![image](https://user-images.githubusercontent.com/101112307/171286693-d9930593-9784-4012-93cd-758ed6159173.png)
+![image](https://user-images.githubusercontent.com/101112307/171286722-0089fbc0-6a16-45b7-8d71-dd40a8b28fda.png)
+![image](https://user-images.githubusercontent.com/101112307/171286747-208f5e84-48dd-416f-9e40-53020d1824a4.png)
+![image](https://user-images.githubusercontent.com/101112307/171286765-649d4340-2ba5-468e-bbd9-2a5f1dcb9df1.png)
+![image](https://user-images.githubusercontent.com/101112307/171286783-f54d6813-3cc7-4990-a0e1-ac9312d4a938.png)
+![image](https://user-images.githubusercontent.com/101112307/171286833-b9201916-8232-4b58-b02b-e868fc96666f.png)
